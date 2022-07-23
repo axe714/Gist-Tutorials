@@ -162,7 +162,9 @@
 ```
 - Ex: 'Allec\?' will match 'Allec?'
 
+<br>
+<br>
 
 ## Author
 - [Github Profile - Axe714](www.github.com/axe714)
-- For inquiries/questions, please reach out to me at allec@gmail.com
+- For inquiries/questions, please reach out to me at allecarzadon@gmail.com
